@@ -1,2 +1,2 @@
 # Download-Libarian
-A lot of users were losing files they were downloading. These include documents, pdfs, images etc. So I made a python script to run in the background to sort their downloads into folders by document type. 
+Download Manager that runs in the back ground. Scans all files in specified directory (default Downloads). These include documents, pdfs, images etc.  Basically a python script to run in the background to sort downloads into folders by document type. 
